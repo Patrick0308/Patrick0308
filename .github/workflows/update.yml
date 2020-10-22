@@ -8,8 +8,11 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
     - name: Generate README.md
-      uses: Patrick0308/Patrick0308@master
+      uses: teoxoy/profile-readme-stats@v1
       with:
         token: ${{ secrets.USER_TOKEN }}
     - name: Update README.md
