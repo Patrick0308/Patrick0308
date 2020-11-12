@@ -1,12 +1,6 @@
-Pushed **246** commits
+### Hi, I'm Patrick0308 ! 👋
 
-Opened **18** issues
+* Interested in cloud native and NewSQL database
+* Open source enthusiast, apache [dubbo-go](https://github.com/apache/dubbo-go) committer
 
-Submitted **60** pull requests
-
-Contributed to **21** public repositories
-
-Top 8 most used languages across my repositories:
-
-![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B185.9%25)
-![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B114%25)
+<img src="https://github-readme-stats.vercel.app/api?username=Patrick0308&show_icons=true&hide_border=true&theme=radical&hide=stars" />
