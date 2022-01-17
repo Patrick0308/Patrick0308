@@ -1,5 +1,6 @@
 ### Hi, I'm Patrick0308 ! 👋
 
+* Now focused on service mesh
 * Interested in cloud native and NewSQL database
 * Open source enthusiast, apache [dubbo-go](https://github.com/apache/dubbo-go) committer
 
